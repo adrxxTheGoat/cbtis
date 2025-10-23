@@ -1,0 +1,8 @@
+{
+  "extends": ["next/core-web-vitals"],
+  "rules": {
+    // Customize minimal rules to reduce noise while keeping best practices
+    "react/no-unescaped-entities": "off",
+    "@next/next/no-img-element": "warn"
+  }
+}
